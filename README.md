@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Jericho</h1>
-<h3 align="center">A passionate data analyst</h3>
+<h3 align="left">A passionate data analyst</h3>
 <img align="right" alt="Coding" width="400"src="https://i.pinimg.com/564x/6a/fc/5c/6afc5c43a5050054d7482202e3b75239.jpg">
 
 
