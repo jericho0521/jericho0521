@@ -4,9 +4,9 @@
 
 
 
-- I’m currently working on **Customer Personality Analysis**
+- I’m currently **Interning** at **White Label Sdn Bhd** in **Data Science Team**
 
-- I’m currently learning **Data Science**
+- I’m currently studying **Diploma in Computer Science**
 
 - Email **jericho0521@gmail.com**
 
