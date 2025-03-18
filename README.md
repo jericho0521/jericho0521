@@ -1,6 +1,6 @@
 # Hey there 👋, I'm Jericho
 
-### A passionate data science student
+### A passionate Computer Science student into Web Development and Database Management
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/6a/fc/5c/6afc5c43a5050054d7482202e3b75239.jpg">
 
